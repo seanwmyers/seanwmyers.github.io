@@ -1,0 +1,38 @@
+body {
+    background: #162744;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+}
+
+.contentWrap {
+    background-color: #162744;
+    min-width: 100%;
+    min-height: 600px;
+}
+
+.contentWrap .content {
+    position: relative;
+    background-color: #FFF08E;
+    height: auto;
+    width: 280px;
+    margin: 0 auto;
+    top: 60px;
+    border-radius: 6px;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    color: #162744;
+    margin: 0;
+    padding-top: 10px;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: 200;
+    color: #162744;
+    margin: 0;
+    padding: 5px 0 20px 0;
+
+}
